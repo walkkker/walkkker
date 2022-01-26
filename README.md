@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shuyu An
-- 👀 I’m interested in High performance computing and CS
+- 👀 I’m interested in High performance computing and algorithms.
 - 🌱 I’m currently learning HPC with Data Science at the University of Edinburgh.
 - 📫 How to reach me - anshuyu.123@163.com
 
